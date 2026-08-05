@@ -61,8 +61,8 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codebyjonatas&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyjonatas&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-stats-extended-6gfy3q42m-jonatas-projects-f30944fa.vercel.app/api?username=codebyjonatas&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-stats-extended-6gfy3q42m-jonatas-projects-f30944fa.vercel.app/api/top-langs/?username=codebyjonatas&layout=compact&theme=tokyonight" />
 </p>
 
 ---
