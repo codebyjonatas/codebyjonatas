@@ -62,10 +62,11 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 <p align="left">
   <a href="https://github-stats-extended.vercel.app/api?username=codebyjonatas&custom_title=Codebyjonatas%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=gruvbox">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api?username=codebyjonatas&custom_title=Codebyjonatas%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=gruvbox" />
+    <img width="48%" src="https://github-stats-extended.vercel.app/api?username=codebyjonatas&custom_title=Codebyjonatas%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=gruvbox" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github-stats-extended.vercel.app/api/top-langs?username=codebyjonatas&layout=donut&langs_count=4&theme=tokyonight">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=codebyjonatas&layout=donut&langs_count=4&theme=tokyonight" />
+    <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs?username=codebyjonatas&layout=donut&langs_count=4&theme=tokyonight" />
   </a>
 </p>
 <!--
