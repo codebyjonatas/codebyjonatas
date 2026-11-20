@@ -66,7 +66,7 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
   </a>
   &nbsp;&nbsp;
   <a href="https://github-stats-extended.vercel.app/api/top-langs?username=codebyjonatas&layout=donut&langs_count=4&theme=tokyonight">
-    <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs?username=codebyjonatas&layout=donut&langs_count=4&theme=tokyonight" />
+    <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs?username=codebyjonatas&layout=donut&langs_count=4&theme=gruvbox" />
   </a>
 </p>
 
