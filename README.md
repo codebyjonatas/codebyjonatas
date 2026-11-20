@@ -16,7 +16,7 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
   </a>
   <a href="https://www.instagram.com/jotaenee21">
     <img src="https://img.shields.io/badge/Instagram-@jotaenee21-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-
+  </a>
 </p>
 
 ---
@@ -61,10 +61,12 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 ## 📊 GitHub Stats
 
 <p align="left">
-  
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=codebyjonatas&custom_title=Codebyjonatas%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github-stats-extended.vercel.app/api?username=codebyjonatas&custom_title=Codebyjonatas%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=gruvbox)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=codebyjonatas&layout=donut&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=codebyjonatas&layout=donut&langs_count=4&theme=tokyonight)
+  <a href="https://github-stats-extended.vercel.app/api?username=codebyjonatas&custom_title=Codebyjonatas%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=gruvbox">
+    <img width="49%" src="https://github-stats-extended.vercel.app/api?username=codebyjonatas&custom_title=Codebyjonatas%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=gruvbox" />
+  </a>
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=codebyjonatas&layout=donut&langs_count=4&theme=tokyonight">
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=codebyjonatas&layout=donut&langs_count=4&theme=tokyonight" />
+  </a>
 </p>
 <!--
 <p align="left">
